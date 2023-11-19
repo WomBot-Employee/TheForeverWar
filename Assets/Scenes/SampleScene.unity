@@ -18120,19 +18120,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 198279101275435388, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: ShapeModule.radius.value
-      value: 12.66
+      value: 14.8
       objectReference: {fileID: 0}
     - target: {fileID: 198279101275435388, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: ShapeModule.radiusThickness
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 198279101275435388, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: InitialModule.startSize.scalar
-      value: 50
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 198279101275435388, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: InitialModule.startSize.minScalar
-      value: 25
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 198279101275435388, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
@@ -18140,7 +18140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 198279101275435388, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: InitialModule.startLifetime.minScalar
-      value: 2
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 199503414395959952, guid: 9e03786a9517b604d8e930182607a128, type: 3}
       propertyPath: m_Flip.x
